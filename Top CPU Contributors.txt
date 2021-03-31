@@ -42,7 +42,7 @@ dsmith                     122059            7570238
 Data                       113305            8220352
 BrunoBanani                112960            7436849
 pemo                       109598            5036441
-Dantist                    106768            6431396
+Dantist                    106768            6431234
 MaZePallas                 102741            6630419
 ElbertoOne                  99028            7023771
 brabos                      92118            6186135
